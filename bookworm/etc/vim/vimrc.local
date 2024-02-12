@@ -4,7 +4,7 @@
 " whish at the end of this file.
 
 " Load the defaults
-source /usr/share/vim/vim81/defaults.vim
+" source /usr/share/vim/vim81/defaults.vim
 
 " Prevent the defaults from being loaded again later, if the user doesn't
 " have a local vimrc (~/.vimrc)
